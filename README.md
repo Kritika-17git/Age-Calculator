@@ -1,2 +1,2 @@
 # Age-Calculator
-Learning JS 
+Making a age calculator
